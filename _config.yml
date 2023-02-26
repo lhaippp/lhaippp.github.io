@@ -97,7 +97,7 @@ plugins:
  - jekyll-seo-tag
  - jekyll-relative-links
 
- exclude : [
+exclude : [
   "Gemfile",
   "Gemfile.lock",
   "node_modules",
