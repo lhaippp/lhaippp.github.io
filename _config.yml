@@ -65,22 +65,43 @@ content:
         # sub_title: <green_mark>Accepted</green_mark>
         description: | # this will include new lines to allow paragraphs
           ## **Semi-supervised Deep Large-baseline Homography Estimation with Progressive Equivalence Constraint**
+
           Hai Jiang*, **Haipeng Li***, Yuhang Lu, Songchen Han, Shuaicheng Liu 
+
           Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
+
           [[PDF](https://arxiv.org/abs/2212.02763)]
           [Code: [Pytorch](https://github.com/megvii-research/LBHomo)]
           [Video: [Youtube](https://www.youtube.com/watch?v=-ktR2mwq5H4), [Bilibili](https://www.bilibili.com/video/BV13Y41117K3/)]
+
       - layout: left
         title: 2021
         # caption: 
         # sub_title: <green_mark>Accepted</green_mark>
         description: | # this will include new lines to allow paragraphs
           ## **GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning**
+
           **Haipeng Li**, Kunming Luo, Shuaicheng Liu 
+
           International Conference on Computer Vision (**ICCV**), 2021.
+
           [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_GyroFlow_Gyroscope-Guided_Unsupervised_Optical_Flow_Learning_ICCV_2021_paper.pdf)]
           [Code: [Pytorch](https://github.com/lhaippp/GyroFlow-PyTorch), [MegEngine](https://github.com/MegEngine/GyroFlow)]
           [Video: [Youtube](https://www.youtube.com/watch?v=6gh40PyWdHM), [Bilibili](https://www.bilibili.com/video/BV1Tr4y127kd/)]
+
+      - layout: left
+        title: 2021
+        # caption: 
+        # sub_title: <green_mark>Accepted</green_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **DeepOIS: Gyroscope-Guided Deep Optical Image Stabilizer Compensation**
+
+          Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
+
+          IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+          
+          [[PDF](http://www.liushuaicheng.org/CSVT/DeepOIS.pdf)]
+          [Code: [Pytorch](https://github.com/lhaippp/DeepOIS)]
 
 # Footer
 footer_show_references: true
