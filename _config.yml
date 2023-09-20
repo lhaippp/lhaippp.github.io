@@ -74,7 +74,7 @@ content:
           [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)]
       
       - layout: left
-        title: 2023
+        title:
         # caption: 
         # sub_title: <green_mark>Accepted</green_mark>
         description: | # this will include new lines to allow paragraphs
@@ -88,7 +88,7 @@ content:
           [Code: [Pytorch](https://github.com/JianghaiSCU/RealSH)]
       
       - layout: left
-        title: 2023
+        title:
         # caption: 
         # sub_title: <green_mark>Accepted</green_mark>
         description: | # this will include new lines to allow paragraphs
