@@ -80,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## **Supervised Homography Learning with Realistic Dataset Generation**
 
-          Hai Jiang\*, **Haipeng Li\***, Yuhang Lu, Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng Liu 
+          Hai Jiang\*, **Haipeng Li\***, Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng Liu 
 
           International Conference on Computer Vision (**ICCV**), 2023.
 
