@@ -130,6 +130,17 @@ content:
           
           [[PDF](http://www.liushuaicheng.org/CSVT/DeepOIS.pdf)]
           [Code: [Pytorch](https://github.com/lhaippp/DeepOIS)]
+  
+  - title: Academic Services # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    
+      - layout: left
+        title:
+        # caption: 
+        # sub_title: <green_mark>Accepted</green_mark>
+        description: | # this will include new lines to allow paragraphs
+          ## **Conferences: CVPR 2024**
 
 # Footer
 footer_show_references: true
