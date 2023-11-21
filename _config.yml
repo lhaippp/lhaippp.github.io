@@ -140,7 +140,7 @@ content:
         # caption: 
         # sub_title: <green_mark>Accepted</green_mark>
         description: | # this will include new lines to allow paragraphs
-          ## **Conferences: CVPR 2024**
+          ## **Conferences:** CVPR 2024
 
 # Footer
 footer_show_references: true
