@@ -31,7 +31,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_GyroFlowPlus/GyroFlowPlus.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_GyroFlowPlus/GyroFlowPlus.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning**
@@ -57,7 +57,7 @@ Hai Jiang\*, **Haipeng Li\***, Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_LBHomo/LBHomo.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_LBHomo/LBHomo.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Semi-supervised Deep Large-baseline Homography Estimation with Progressive Equivalence Constraint**
@@ -72,7 +72,7 @@ Hai Jiang\*, **Haipeng Li\***, Yuhang Lu, Songchen Han, Shuaicheng Liu
 
 **2021**
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_GyroFlow/GyroFlow.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_GyroFlow/GyroFlow.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning**
