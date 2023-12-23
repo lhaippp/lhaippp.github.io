@@ -85,6 +85,19 @@ International Conference on Computer Vision (**ICCV**), 2021.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_DeepOIS/DeepOIS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**DeepOIS: Gyroscope-Guided Deep Optical Image Stabilizer Compensation**
+
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
+
+Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
+
+[[Paper](https://ieeexplore.ieee.org/document/9509028)] \| [Code: [Pytorch](https://github.com/lhaippp/DeepOIS)] \| [BibTex](collections/2021_DeepOIS/DeepOIS.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 
 # Education
 
