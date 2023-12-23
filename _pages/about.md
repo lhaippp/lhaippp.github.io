@@ -40,26 +40,26 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 **Haipeng Li**, Kunming Luo, Bing Zeng, Shuaicheng Liu
 
-[[Paper](https://arxiv.org/abs/2301.10018)] \| [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)] \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://arxiv.org/abs/2301.10018)] \| [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)] \| [BibTex](collections/2023_GyroFlowPlus/GyroFlowPlus.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
 
 # Education
 
-- *2022.08 - Present*, Ph.D. candidate, The Chinese University of Hong Kong (CUHK)
-- *2019.09 - 2022.06*, M.Sc., University of Electronic Science and Technology of China (UESTC)
-- *2015.09 - 2019.06*, B.E., Sichuan University (SCU)
+- *2022.09 - Present*, Ph.D. candidate, University of Electronic Science and Technology of China (UESTC)
+- *2017.07 - 2020.03*, M.Sc., École Nationale Supérieure des Télécommunications de Bretagne
+- *2013.09 - 2017.06*, B.E., University of Electronic Science and Technology of China (UESTC)
 
 # Experience
 
-- *2018.12 - 2022.06*, Intern, Megvii Research
+- *2020.06 - 2022.09*, Researcher, Megvii Research 
 
-<!-- # Academic Services
-- **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF)
-- **Conferences:** AAAI; Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS) -->
+# Academic Services
+<!-- - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF) -->
+- **Conferences:** CVPR2024
 
-# Projects
+<!-- # Projects
 
 - *2018.12 - 2019.07, Driver Monitor System (DMS)*
 
@@ -77,4 +77,4 @@ Design a light-weighted end-to-end network running on an onboard chip to estimat
 
 <div>
        <video src='collections/Gaze/gaze_demo.mp4' controls="controls" width="30%" height="200px"></video>
-</div>
+</div> -->
