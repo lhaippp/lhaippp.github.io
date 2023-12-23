@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao XU"
+title                    : "Haipeng LI"
 description              : # "Harbin Institute of Technology (HIT)"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "G-9976N9H92G" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -20,13 +20,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao XU (徐昊)\n"
-  avatar           : "images/xh.jpeg"
+  name             : "Haipeng LI (李海鹏)\n"
+  avatar           : "images/lhp.jpeg"
   bio              : ""
   employer         :
   pubmed           : 
-  email            : "xuhao@cse.cuhk.edu.hk"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=M7qfdFwAAAAJ&hl"
+  email            : "leefrancoch@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=67R2ZoUAAAAJ&hl"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -35,8 +35,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hxwork"
-  location         : "Hong Kong SAR"
+  github           : "lhaippp"
+  location         : "Chengdu"
   google_plus      :
   keybase          :
   instagram        :
