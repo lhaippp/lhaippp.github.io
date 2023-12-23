@@ -1,171 +1,162 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Content configuration version
-version: 2
+# Site Settings
+title                    : "Hao XU"
+description              : # "Harbin Institute of Technology (HIT)"
+google_scholar_stats_use_cdn : true
 
-# Personal info
-name: Haipeng Li (李海鹏)
-email: leefrancoch@gmail.com
+# google analytics
+google_analytics_id      :  "G-9976N9H92G" # get google_analytics_id from https://analytics.google.com/analytics/
 
-# Dark Mode (true/false/never)
-darkmode: false
+# SEO Related
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# Social links
-# twitter_username: facespics
-github_username:  lhaippp
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# Site Author
+author:
+  name             : "Hao XU (徐昊)\n"
+  avatar           : "images/xh.jpeg"
+  bio              : ""
+  employer         :
+  pubmed           : 
+  email            : "xuhao@cse.cuhk.edu.hk"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=M7qfdFwAAAAJ&hl"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "hxwork"
+  location         : "Hong Kong SAR"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/166/7005.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-additional_links:
-- title: google scholar
-  icon: fab fa-google
-  url: https://scholar.google.com.hk/citations?user=67R2ZoUAAAAJ&hl=zh-CN
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# About Section
-# about_title: About Me
-about_profile_image: images/venice.JPG
-about_content: | # this will include new lines to allow paragraphs
-  I am currently a Ph.D. student at the SICE from the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) and [Prof. Bing Zeng](https://www.researchgate.net/profile/Bing-Zeng-4).
-  I received my Master's degree at École Nationale Supérieure des Télécommunications de Bretagne, supervised by [Prof. Laurent Brisson](http://www.laurent-brisson.fr/). Before that, I got my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC). 
-  My research interests include image alignment, and generative model.
 
-content:
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-    
-      - layout: left
-        title: 2023
-        # caption: 
-        # sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning**
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-          **Haipeng Li**, Kunming Luo, Bing Zeng, Shuaicheng Liu 
 
-          International Journal of Computer Vision (**IJCV**)
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-          [[PDF](https://arxiv.org/abs/2301.10018)]
-          [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)]
-      
-      - layout: left
-        title:
-        # caption: 
-        # sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Supervised Homography Learning with Realistic Dataset Generation**
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
 
-          Hai Jiang\*, **Haipeng Li\***, Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng Liu 
 
-          International Conference on Computer Vision (**ICCV**), 2023.
-
-          [[PDF](https://arxiv.org/pdf/2307.15353.pdf)]
-          [Code: [Pytorch](https://github.com/JianghaiSCU/RealSH)]
-      
-      - layout: left
-        title:
-        # caption: 
-        # sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Semi-supervised Deep Large-baseline Homography Estimation with Progressive Equivalence Constraint**
-
-          Hai Jiang\*, **Haipeng Li\***, Yuhang Lu, Songchen Han, Shuaicheng Liu 
-
-          Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
-
-          [[PDF](https://arxiv.org/abs/2212.02763)]
-          [Code: [Pytorch](https://github.com/megvii-research/LBHomo)]
-          [Video: [Youtube](https://www.youtube.com/watch?v=-ktR2mwq5H4), [Bilibili](https://www.bilibili.com/video/BV13Y41117K3/)]
-
-      - layout: left
-        title: 2021
-        # caption: 
-        # sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning**
-
-          **Haipeng Li**, Kunming Luo, Shuaicheng Liu 
-
-          International Conference on Computer Vision (**ICCV**), 2021.
-
-          [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_GyroFlow_Gyroscope-Guided_Unsupervised_Optical_Flow_Learning_ICCV_2021_paper.pdf)]
-          [Code: [Pytorch](https://github.com/lhaippp/GyroFlow-PyTorch), [MegEngine](https://github.com/MegEngine/GyroFlow)]
-          [Video: [Youtube](https://www.youtube.com/watch?v=6gh40PyWdHM), [Bilibili](https://www.bilibili.com/video/BV1Tr4y127kd/)]
-
-      - layout: left
-        title: 
-        # caption: 
-        # sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **DeepOIS: Gyroscope-Guided Deep Optical Image Stabilizer Compensation**
-
-          Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
-
-          IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
-          
-          [[PDF](http://www.liushuaicheng.org/CSVT/DeepOIS.pdf)]
-          [Code: [Pytorch](https://github.com/lhaippp/DeepOIS)]
-  
-  - title: Academic Services # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-    
-      - layout: left
-        title:
-        # caption: 
-        # sub_title: <green_mark>Accepted</green_mark>
-        description: | # this will include new lines to allow paragraphs
-          ## **Conferences:** CVPR 2024
-
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
+# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
 plugins:
- - jekyll-seo-tag
- - jekyll-relative-links
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
