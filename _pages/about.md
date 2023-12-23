@@ -44,6 +44,19 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_RSHomo/RSHomo.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Supervised Homography Learning with Realistic Dataset Generation**
+
+*International Conference on Computer Vision (**ICCV**), 2023*
+
+Hai Jiang\*, **Haipeng Li\***, Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
+
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Supervised_Homography_Learning_with_Realistic_Dataset_Generation_ICCV_2023_paper.pdf)] \| [Code: [Pytorch](https://github.com/JianghaiSCU/RealSH)] \| [BibTex](collections/2023_RSHomo/RSHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 
 # Education
 
