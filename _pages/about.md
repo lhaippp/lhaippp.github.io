@@ -57,6 +57,34 @@ Hai Jiang\*, **Haipeng Li\***, Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2023_LBHomo/LBHomo.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Semi-supervised Deep Large-baseline Homography Estimation with Progressive Equivalence Constraint**
+
+Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
+
+Hai Jiang\*, **Haipeng Li\***, Yuhang Lu, Songchen Han, Shuaicheng Liu
+
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25183)] \| [Code: [Pytorch](https://github.com/megvii-research/LBHomo)] \| [BibTex](collections/2023_LBHomo/LBHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+**2021**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_GyroFlow/GyroFlow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning**
+
+International Conference on Computer Vision (**ICCV**), 2021.
+
+**Haipeng Li**, Kunming Luo, Shuaicheng Liu
+
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Li_GyroFlow_Gyroscope-Guided_Unsupervised_Optical_Flow_Learning_ICCV_2021_paper.html)] \| [Code: [Pytorch](https://github.com/lhaippp/GyroFlow-PyTorch)] \| [BibTex](collections/2021_GyroFlow/GyroFlow.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 
 # Education
 
