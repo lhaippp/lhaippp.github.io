@@ -22,8 +22,8 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
-- *2024.2*: &nbsp; One paper is accepted to ToG.
-- *2024.2*: &nbsp; Two papers are accepted to CVPR 2024.
+- *2024.02*: &nbsp; One paper is accepted to ToG.
+- *2024.02*: &nbsp; Two papers are accepted to CVPR 2024.
 - *2023.12*: &nbsp; One paper is accepted to IJCV.
 - *2023.07*: &nbsp; One paper is accepted to ICCV 2023.
 
@@ -41,6 +41,34 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
 [[Paper]()] \| [Code: [Pytorch]()] \| [BibTex]() <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_RecDiffusion/RecDiffusion.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Rectangling for Image Stitching with Diffusion Models**
+
+*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
+
+Tianhao Zhou\*, **Haipeng Li\***, Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
+
+[[Paper]()] \| [Code: [Pytorch]()] \| [BibTex]() <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_HandBooster/HandBooster.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions**
+
+*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
+
+Hao Xu, **Haipeng Li**, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
+
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
