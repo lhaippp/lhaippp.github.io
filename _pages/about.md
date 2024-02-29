@@ -36,7 +36,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 **DMHomo: Learning Homography with Diffusion Models**
 
-*ACM Transactions on Graphics (**ToG**)*
+*ACM Transactions on Graphics (**ToG**), Presented at SIGGRAPH 2024*
 
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
