@@ -29,6 +29,19 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 **2024**
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_DMHomo/DMHomo.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**DMHomo: Learning Homography with Diffusion Models**
+
+*ACM Transactions on Graphics (**ToG**)*
+
+**Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
+
+[[Paper]()] \| [Code: [Pytorch]()] \| [BibTex]() <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2023_GyroFlowPlus/GyroFlowPlus.jpg' alt="sym" width="100%"></div>
