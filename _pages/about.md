@@ -22,6 +22,8 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2024.2*: &nbsp; One paper is accepted to ToG.
+- *2024.2*: &nbsp; Two papers are accepted to CVPR 2024.
 - *2023.12*: &nbsp; One paper is accepted to IJCV.
 - *2023.07*: &nbsp; One paper is accepted to ICCV 2023.
 
