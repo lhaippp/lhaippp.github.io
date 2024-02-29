@@ -40,7 +40,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
-[[Paper]()] \| [Code: [Pytorch]()] \| [BibTex]() <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -53,7 +53,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 Tianhao Zhou\*, **Haipeng Li\***, Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
 
-[[Paper]()] \| [Code: [Pytorch]()] \| [BibTex]() <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
