@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2024.03*: &nbsp; One paper is accepted to TIP.
 - *2024.02*: &nbsp; One paper is accepted to ToG.
 - *2024.02*: &nbsp; Two papers are accepted to CVPR 2024.
 - *2023.12*: &nbsp; One paper is accepted to IJCV.
@@ -31,12 +32,25 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 **2024**
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_YOHO/YOHO.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Single-Image-Based Deep Learning for Segmentation of Early Esophageal Cancer Lesions**
+
+*IEEE Transactions on Image Processing (**TIP**)*
+
+**Haipeng Li\***, Dingrui Liu\*, Yu Zeng, Shuaicheng Liu, Tao Gan, Nini Rao, Jinlin Yang, Bing Zeng
+
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2024_DMHomo/DMHomo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **DMHomo: Learning Homography with Diffusion Models**
 
-*ACM Transactions on Graphics (**ToG**), Presented at SIGGRAPH 2024*
+*ACM Transactions on Graphics (**ToG**), Present at SIGGRAPH 2024*
 
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
