@@ -39,7 +39,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 *IEEE Transactions on Image Processing (**TIP**)*
 
-**Haipeng Li\*(equal contribution)**, Dingrui Liu\*, Yu Zeng, Shuaicheng Liu, Tao Gan, Nini Rao, Jinlin Yang, Bing Zeng
+**Haipeng Li**\*(equal contribution), Dingrui Liu\*, Yu Zeng, Shuaicheng Liu, Tao Gan, Nini Rao, Jinlin Yang, Bing Zeng
 
 Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
@@ -65,7 +65,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 *IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
 
-Tianhao Zhou\*, **Haipeng Li\*(equal contribution)**, Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
+Tianhao Zhou\*, **Haipeng Li**\*(equal contribution), Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
 
 Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
@@ -110,7 +110,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 *International Conference on Computer Vision (**ICCV**), 2023*
 
-Hai Jiang\*, **Haipeng Li\*(equal contribution)**, Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
+Hai Jiang\*, **Haipeng Li**\*(equal contribution), Songchen Han, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Supervised_Homography_Learning_with_Realistic_Dataset_Generation_ICCV_2023_paper.pdf)] \| [Code: [Pytorch](https://github.com/JianghaiSCU/RealSH)] \| [BibTex](collections/2023_RSHomo/RSHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
@@ -123,7 +123,7 @@ Hai Jiang\*, **Haipeng Li\*(equal contribution)**, Songchen Han, Haoqiang Fan, B
 
 Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023.
 
-Hai Jiang\*, **Haipeng Li\*(equal contribution)**, Yuhang Lu, Songchen Han, Shuaicheng Liu
+Hai Jiang\*, **Haipeng Li**\*(equal contribution), Yuhang Lu, Songchen Han, Shuaicheng Liu
 
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25183)] \| [Code: [Pytorch](https://github.com/megvii-research/LBHomo)] \| [BibTex](collections/2023_LBHomo/LBHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
