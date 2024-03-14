@@ -54,7 +54,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://dl.acm.org/doi/10.1145/3652207)] \| Video \| [Code: [Pytorch](https://github.com/lhaippp/DMHomo)] \| [BibTex](collections/2024_DMHomo/DMHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 **Haipeng Li**, Kunming Luo, Bing Zeng, Shuaicheng Liu
 
-[[Paper](https://arxiv.org/abs/2301.10018)] \| [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)] \| [BibTex](collections/2023_GyroFlowPlus/GyroFlowPlus.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://link.springer.com/article/10.1007/s11263-023-01978-5)] \| [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)] \| [BibTex](collections/2023_GyroFlowPlus/GyroFlowPlus.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
