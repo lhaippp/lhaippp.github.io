@@ -41,7 +41,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 **Haipeng Li**\*(equal contribution), Dingrui Liu\*, Yu Zeng, Shuaicheng Liu, Tao Gan, Nini Rao, Jinlin Yang, Bing Zeng
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/10480373/) \| [Code](https://github.com/lhaippp/YOHO) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -61,13 +61,13 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2024_RecDiffusion/RecDiffusion.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Rectangling for Image Stitching with Diffusion Models**
+**RecDiffusion: Rectangling for Image Stitching with Diffusion Models**
 
 *IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024*
 
 Tianhao Zhou\*, **Haipeng Li**\*(equal contribution), Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2403.19164) \| Video \| [Code](https://github.com/lhaippp/RecDiffusion) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -82,7 +82,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 Hao Xu, **Haipeng Li**, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2403.18575) \| Video \| [Code](https://github.com/hxwork/HandBooster_Pytorch) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -170,7 +170,7 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 
 # Academic Services
 <!-- - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF) -->
-- **Conferences:** CVPR2024
+- **Conferences:** CVPR2024, MM2024
 
 <!-- # Projects
 
