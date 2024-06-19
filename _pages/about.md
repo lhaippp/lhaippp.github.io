@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2024.06*: &nbsp; One paper is accepted to TCSVT.
 - *2024.03*: &nbsp; One paper is accepted to TIP.
 - *2024.02*: &nbsp; One paper is accepted to ToG.
 - *2024.02*: &nbsp; Two papers are accepted to CVPR 2024.
@@ -31,6 +32,20 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 # Publications
 
 **2024**
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_CodingHomo/CodingHomo.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**CodingHomo: Bootstrapping Deep Homography
+with Video Coding**
+
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)*
+
+Yike Liu, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
+
+[Paper]() \| [Code]() \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2024_YOHO/YOHO.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
