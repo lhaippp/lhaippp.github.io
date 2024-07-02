@@ -22,16 +22,30 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2024.07*: &nbsp; One paper is accepted to ECCV 2024.
 - *2024.06*: &nbsp; One paper is accepted to TCSVT.
 - *2024.03*: &nbsp; One paper is accepted to TIP.
 - *2024.02*: &nbsp; One paper is accepted to ToG.
 - *2024.02*: &nbsp; Two papers are accepted to CVPR 2024.
-- *2023.12*: &nbsp; One paper is accepted to IJCV.
-- *2023.07*: &nbsp; One paper is accepted to ICCV 2023.
 
 # Publications
 
+
 **2024**
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2024_PointGPT/PointGPT.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**PointGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**
+
+*IEEE/CVF European Conference on Computer Vision (**ECCV**), 2024*
+
+Suyi Chen, Hao Xu, **Haipeng Li**, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
+
+Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2024_CodingHomo/CodingHomo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
