@@ -198,8 +198,8 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 - *2020.06 - 2022.09*, Researcher, Megvii Research 
 
 # Academic Services
-<!-- - **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF) -->
-- **Conferences:** CVPR2024, MM2024
+- **Journals:** IEEE Transactions on Image Processing (TIP)
+- **Conferences:** CVPR2024, MM2024, AAAI2025
 
 <!-- # Projects
 
