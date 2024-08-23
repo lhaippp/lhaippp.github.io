@@ -199,7 +199,7 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 
 # Academic Services
 - **Journals:** IEEE Transactions on Image Processing (TIP)
-- **Conferences:** CVPR2024, MM2024, AAAI2025
+- **Conferences:** CVPR2024, MM2024, AAAI2025, ICLR2025
 
 <!-- # Projects
 
