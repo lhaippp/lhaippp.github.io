@@ -22,7 +22,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
-- *2024.12*: &nbsp; Two paper is accepted to AAAI 2025.
+- *2024.12*: &nbsp; Two paper are accepted to AAAI 2025.
 - *2024.07*: &nbsp; One paper is accepted to ECCV 2024.
 - *2024.06*: &nbsp; One paper is accepted to TCSVT.
 - *2024.03*: &nbsp; One paper is accepted to TIP.
@@ -42,7 +42,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), MingboHong, Chen-Lin Zhang, Jiajun Li, Shuaicheng Liu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://arxiv.org/abs/2407.02906)] \| Video \| [[Code](https://github.com/lhaippp/RS-Diffusion)] \| [[Dataset](https://huggingface.co/Lhaippp/RS-Diffusion)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -55,7 +55,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 Du Keyu, Hao Xu, **Haipeng Li**, Hong Qu, Chi-Wing Fu, Shuaicheng Liu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Video \| [[Code](https://github.com/hxwork/HybridReg_PyTorch)] \| [[Dataset]()] \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -70,7 +70,7 @@ Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data
 
 Suyi Chen, Hao Xu, **Haipeng Li**, Kunming Luo, Guanghui Liu, Chi-Wing Fu, Ping Tan, Shuaicheng Liu
 
-Paper \| Video \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06787.pdf)] \| [[Video](https://www.youtube.com/watch?v=CqXchy9ZE1E)] \| [[Code](https://github.com/Chen-Suyi/PointRegGPT)] \| [[BibTex](collections/2024_PointGPT/PointGPT.md)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -85,7 +85,7 @@ with Video Coding**
 
 Yike Liu, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
 
-[Paper]() \| [Code]() \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://ieeexplore.ieee.org/document/10570492)] \| [[Code](https://github.com/liuyike422/CodingHomo)] \| [[BibTex](collections/2024_CodingHomo/CodingHomo.md)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -99,7 +99,7 @@ Yike Liu, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
 
 **Haipeng Li**\*(equal contribution), Dingrui Liu\*, Yu Zeng, Shuaicheng Liu, Tao Gan, Nini Rao, Jinlin Yang, Bing Zeng
 
-[Paper](https://ieeexplore.ieee.org/document/10480373/) \| [Code](https://github.com/lhaippp/YOHO) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://ieeexplore.ieee.org/document/10480373/)] \| [[Code](https://github.com/lhaippp/YOHO)] \| [[BibTex](collections/2024_YOHO/YOHO.md)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Yike Liu, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
 
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
-[[Paper](https://dl.acm.org/doi/10.1145/3652207)] \| Video \| [Code: [Pytorch](https://github.com/lhaippp/DMHomo)] \| [BibTex](collections/2024_DMHomo/DMHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://dl.acm.org/doi/10.1145/3652207)] \| [[Video](https://dl.acm.org/doi/10.1145/3652207)] \| [Code: [Pytorch](https://github.com/lhaippp/DMHomo)] \| [BibTex](collections/2024_DMHomo/DMHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -125,7 +125,7 @@ Yike Liu, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
 
 Tianhao Zhou\*, **Haipeng Li**\*(equal contribution), Ziyi Wang, Ao Luo, Chen-Lin Zhang, Jiajun Li, Bing Zeng, Shuaicheng Liu
 
-[Paper](https://arxiv.org/abs/2403.19164) \| Video \| [Code](https://github.com/lhaippp/RecDiffusion) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_RecDiffusion_Rectangling_for_Image_Stitching_with_Diffusion_Models_CVPR_2024_paper.pdf)] \| [[Video](https://www.bilibili.com/video/BV1MD421g7Px/)] \| [[Code](https://github.com/lhaippp/RecDiffusion)] \| [[BibTex](collections/2024_RecDiffusion/RecDiffusion.md)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -140,7 +140,7 @@ Tianhao Zhou\*, **Haipeng Li**\*(equal contribution), Ziyi Wang, Ao Luo, Chen-Li
 
 Hao Xu, **Haipeng Li**, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
 
-[Paper](https://arxiv.org/abs/2403.18575) \| Video \| [Code](https://github.com/hxwork/HandBooster_Pytorch) \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_HandBooster_Boosting_3D_Hand-Mesh_Reconstruction_by_Conditional_Synthesis_and_Sampling_CVPR_2024_paper.pdf)] \| [[Video](https://www.youtube.com/watch?v=Eg_LfnFef9g)] \| [[Code](https://github.com/hxwork/HandBooster_Pytorch)] \| [[BibTex](collections/2024_HandBooster/HandBooster.md)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -155,7 +155,7 @@ Hao Xu, **Haipeng Li**, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
 
 **Haipeng Li**, Kunming Luo, Bing Zeng, Shuaicheng Liu
 
-[[Paper](https://link.springer.com/article/10.1007/s11263-023-01978-5)] \| [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)] \| [BibTex](collections/2023_GyroFlowPlus/GyroFlowPlus.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://link.springer.com/article/10.1007/s11263-023-01978-5)] \| [Code: [Pytorch](https://github.com/lhaippp/GyroFlowPlus)] \| [[BibTex](collections/2023_GyroFlowPlus/GyroFlowPlus.md)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
