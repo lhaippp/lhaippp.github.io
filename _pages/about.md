@@ -22,7 +22,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
-- *2024.12*: &nbsp; Two paper are accepted to AAAI 2025.
+- *2024.12*: &nbsp; Two papers are accepted to AAAI 2025.
 - *2024.07*: &nbsp; One paper is accepted to ECCV 2024.
 - *2024.06*: &nbsp; One paper is accepted to TCSVT.
 - *2024.03*: &nbsp; One paper is accepted to TIP.
@@ -112,7 +112,7 @@ Yike Liu, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
 
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
-[[Paper](https://dl.acm.org/doi/10.1145/3652207)] \| [[Video](https://dl.acm.org/doi/10.1145/3652207)] \| [Code: [Pytorch](https://github.com/lhaippp/DMHomo)] \| [BibTex](collections/2024_DMHomo/DMHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://drive.google.com/file/d/12YOKx60RtZSx8f7uLj7uGY_KzjpZc8TD/view)] \| [[Video](https://dl.acm.org/doi/10.1145/3652207)] \| [Code: [Pytorch](https://github.com/lhaippp/DMHomo)] \| [BibTex](collections/2024_DMHomo/DMHomo.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
