@@ -230,6 +230,11 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 - **Journals:** TPAMI, TIP, TCSVT, PR
 - **Conferences:** CVPR2024/2025, ICLR2025, AAAI2025, MM2024
 
+# Visitor Map
+<div style="width: 400px; height: 300px;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iX4x5prxzzFHku47H3TQts2plkCCNyHlnvBHhLBLsBE&cl=ffffff&w=a"></script>
+</div>
+
 <!-- # Projects
 
 - *2018.12 - 2019.07, Driver Monitor System (DMS)*
