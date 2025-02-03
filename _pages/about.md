@@ -227,7 +227,7 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 - *2020.06 - 2022.09*, Researcher, Megvii Research 
 
 # Academic Services
-- **Journals:** TPAMI, TIP, TCSVT, PR
+- **Journals:** TPAMI, TIP, TMI, TCSVT, PR
 - **Conferences:** CVPR2024/2025, ICLR2025, AAAI2025, MM2024
 
 # Visitor Map
