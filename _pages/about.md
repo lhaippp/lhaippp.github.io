@@ -108,7 +108,7 @@ Yike Liu, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
 
 **DMHomo: Learning Homography with Diffusion Models**
 
-*ACM Transactions on Graphics (**ToG**), Present at SIGGRAPH 2024*
+*ACM Transactions on Graphics (**ToG**), Presented at SIGGRAPH 2024*
 
 **Haipeng Li**, Hai Jiang, Ao Luo, Ping Tan, Haoqiang Fan, Bing Zeng, Shuaicheng Liu
 
