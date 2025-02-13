@@ -228,7 +228,7 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 
 # Academic Services
 - **Journals:** TPAMI, TIP, TMI, TCSVT, PR
-- **Conferences:** CVPR2024/2025, ICLR2025, AAAI2025, MM2024
+- **Conferences:** CVPR2024/2025, ICCV2025, ICLR2025, AAAI2025, MM2024
 
 # Visitor Map
 <div style="width: 400px; height: 300px;">
