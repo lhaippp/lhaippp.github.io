@@ -22,16 +22,29 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2025.02*: &nbsp; One paper is accepted to CVPR 2025.
 - *2024.12*: &nbsp; Two papers are accepted to AAAI 2025.
 - *2024.07*: &nbsp; One paper is accepted to ECCV 2024.
 - *2024.06*: &nbsp; One paper is accepted to TCSVT.
 - *2024.03*: &nbsp; One paper is accepted to TIP.
 - *2024.02*: &nbsp; One paper is accepted to ToG.
-- *2024.02*: &nbsp; Two papers are accepted to CVPR 2024.
 
 # Publications
 
 **2025**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_RobustDepth/RobustDepth.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**
+
+*IEEE/CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2025*
+
+Weilong Yan, Ming Li, **Haipeng Li**, Shuwei Shao, Robby T. Tan
+
+[[Paper]] \| Video \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_RSDiffusion/RSDiffusion.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
