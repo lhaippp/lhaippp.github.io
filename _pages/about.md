@@ -37,7 +37,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 *IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)*
 
-Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), Shen Cheng, MingboHong, Bing Zeng, Shuaicheng Liu
+Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), Shen Cheng, Mingbo Hong, Bing Zeng, Shuaicheng Liu
 
 [[Paper]] \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
