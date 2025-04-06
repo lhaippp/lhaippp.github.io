@@ -22,16 +22,26 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2025.04*: &nbsp; One paper is accepted to TCSVT.
 - *2025.02*: &nbsp; One paper is accepted to CVPR 2025.
 - *2024.12*: &nbsp; Two papers are accepted to AAAI 2025.
-- *2024.07*: &nbsp; One paper is accepted to ECCV 2024.
-- *2024.06*: &nbsp; One paper is accepted to TCSVT.
-- *2024.03*: &nbsp; One paper is accepted to TIP.
-- *2024.02*: &nbsp; One paper is accepted to ToG.
 
 # Publications
 
 **2025**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_MultiRS/MultiRS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Multi-Frame Rolling Shutter Correction with Diffusion Models**
+
+*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)*
+
+Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), Shen Cheng, MingboHong, Bing Zeng, Shuaicheng Liu
+
+[[Paper]] \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_RobustDepth/RobustDepth.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -42,7 +52,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 Weilong Yan, Ming Li, **Haipeng Li**, Shuwei Shao, Robby T. Tan
 
-[[Paper]] \| Video \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://arxiv.org/abs/2503.20211)] \| Video \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
