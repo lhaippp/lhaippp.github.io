@@ -65,7 +65,7 @@ Weilong Yan, Ming Li, **Haipeng Li**, Shuwei Shao, Robby T. Tan
 
 Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), MingboHong, Chen-Lin Zhang, Jiajun Li, Shuaicheng Liu
 
-[[Paper](https://arxiv.org/abs/2407.02906)] \| Video \| [[Code](https://github.com/lhaippp/RS-Diffusion)] \| [[Dataset](https://huggingface.co/Lhaippp/RS-Diffusion)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://arxiv.org/abs/2407.02906)] \| Video \| [[Code](https://github.com/lhaippp/RS-Diffusion)] \| [[Dataset](https://huggingface.co/datasets/Yzl-code/RS-Diffusion)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
