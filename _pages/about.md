@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2025.06*: &nbsp; One paper is accepted to ICCV 2025.
 - *2025.04*: &nbsp; One paper is accepted to TCSVT.
 - *2025.02*: &nbsp; One paper is accepted to CVPR 2025.
 - *2024.12*: &nbsp; Two papers are accepted to AAAI 2025.
@@ -29,6 +30,19 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 # Publications
 
 **2025**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_CamFlow/CamFlow.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Estimating 2D Camera Motion with Hybrid Motion Basis**
+
+International Conference on Computer Vision (**ICCV**), 2025.
+
+**Haipeng Li**\*(equal contribution), Tianhao Zhou\*(equal contribution), Zhanglei Yang, Yi Wu, Chen Yan, Zijing Mao, Shen Cheng, Bing Zeng, Shuaicheng Liu
+
+[[Paper]] \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_MultiRS/MultiRS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -39,7 +53,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), Shen Cheng, Mingbo Hong, Bing Zeng, Shuaicheng Liu
 
-[[Paper]] \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://ieeexplore.ieee.org/document/10965711)] \| [[Code](https://github.com/lhaippp/DM-RSC)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -52,7 +66,7 @@ Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), Shen 
 
 Weilong Yan, Ming Li, **Haipeng Li**, Shuwei Shao, Robby T. Tan
 
-[[Paper](https://arxiv.org/abs/2503.20211)] \| Video \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Synthetic-to-Real_Self-supervised_Robust_Depth_Estimation_via_Learning_with_Motion_and_CVPR_2025_paper.pdf)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -65,7 +79,7 @@ Weilong Yan, Ming Li, **Haipeng Li**, Shuwei Shao, Robby T. Tan
 
 Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), MingboHong, Chen-Lin Zhang, Jiajun Li, Shuaicheng Liu
 
-[[Paper](https://arxiv.org/abs/2407.02906)] \| Video \| [[Code](https://github.com/lhaippp/RS-Diffusion)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33015)] \| [[Code](https://github.com/lhaippp/RS-Diffusion)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
@@ -78,7 +92,7 @@ Zhanglei Yang\*(equal contribution), **Haipeng Li**\*(equal contribution), Mingb
 
 Du Keyu, Hao Xu, **Haipeng Li**, Hong Qu, Chi-Wing Fu, Shuaicheng Liu
 
-Paper \| Video \| [[Code](https://github.com/hxwork/HybridReg_PyTorch)] \| [[Dataset]()] \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32284)] \| [[Code](https://github.com/hxwork/HybridReg_PyTorch)] \| [[Dataset]()] \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
