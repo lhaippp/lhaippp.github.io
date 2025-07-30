@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haipeng LI"
-description              : "Ph.D. Student in Computer Vision & Deep Learning at UESTC"
+description              : # "Harbin Institute of Technology (HIT)"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -16,14 +16,14 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Haipeng LI (李海鹏)"
+  name             : "Haipeng LI (李海鹏)\n"
   avatar           : "images/lhp.jpeg"
-  bio              : "Ph.D. Student | Computer Vision & Deep Learning | UESTC"
-  employer         : "University of Electronic Science and Technology of China"
+  bio              : ""
+  employer         :
   pubmed           : 
   email            : "leefrancoch@gmail.com"
   googlescholar    : "https://scholar.google.com.hk/citations?user=67R2ZoUAAAAJ&hl"
@@ -36,7 +36,7 @@ author:
   facebook         :
   foursquare       :
   github           : "lhaippp"
-  location         : "Chengdu, China"
+  location         : "Chengdu"
   google_plus      :
   keybase          :
   instagram        :
