@@ -40,7 +40,7 @@ International Conference on Computer Vision (**ICCV**), 2025.
 
 **Haipeng Li**\*(equal contribution), Tianhao Zhou\*(equal contribution), Zhanglei Yang, Yi Wu, Chen Yan, Zijing Mao, Shen Cheng, Bing Zeng, Shuaicheng Liu
 
-[[Paper]] \| [[Code]] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[[Paper]] \| [[Code](https://github.com/lhaippp/CamFlow-Code)] \| [[Project Page](https://lhaippp.github.io/CamFlow/)] \|  BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
