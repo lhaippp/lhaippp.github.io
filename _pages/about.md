@@ -18,14 +18,34 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student at the SICE from the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) and [Prof. Bing Zeng](https://www.researchgate.net/profile/Bing-Zeng-4). I received my Master's degree at École Nationale Supérieure des Télécommunications de Bretagne, supervised by [Prof. Laurent Brisson](http://www.laurent-brisson.fr/). Before that, I got my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC). My research interests include image alignment, and generative model.
+I am currently a Ph.D. student at the School of Information and Communication Engineering (SICE) from the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) and [Prof. Bing Zeng](https://www.researchgate.net/profile/Bing-Zeng-4). I received my Master's degree at École Nationale Supérieure des Télécommunications de Bretagne (IMT Atlantique), supervised by [Prof. Laurent Brisson](http://www.laurent-brisson.fr/). Before that, I obtained my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC).
 
-# News
+My research focuses on **computer vision** and **deep learning**, with particular expertise in:
+- **Image Alignment & Registration**: Homography estimation, optical flow learning, and point cloud registration
+- **Generative Models**: Diffusion models for image processing tasks including rolling shutter correction and image stitching
+- **3D Vision**: Hand-mesh reconstruction and depth estimation
+- **Medical Image Analysis**: Early cancer detection and segmentation
 
-- *2025.06*: &nbsp; One paper is accepted to ICCV 2025.
-- *2025.04*: &nbsp; One paper is accepted to TCSVT.
-- *2025.02*: &nbsp; One paper is accepted to CVPR 2025.
-- *2024.12*: &nbsp; Two papers are accepted to AAAI 2025.
+I have published **15+ papers** in top-tier venues including CVPR, ICCV, ECCV, SIGGRAPH, AAAI, and IEEE TIP/TCSVT/IJCV, with a focus on bridging the gap between theoretical advances and practical applications.
+
+# 🔬 Research Highlights
+
+- **🏆 SIGGRAPH 2024**: Pioneered the application of diffusion models for homography estimation with **DMHomo**
+- **🎯 CVPR 2024**: Developed novel approaches for image stitching (**RecDiffusion**) and 3D hand reconstruction (**HandBooster**)  
+- **📊 ICCV 2021**: First work to leverage gyroscope data for unsupervised optical flow learning (**GyroFlow**)
+- **🔄 Rolling Shutter Correction**: Leading researcher in multi-frame and single-image rolling shutter correction using diffusion models
+- **📈 Citations**: 200+ citations on Google Scholar with increasing impact in computer vision community
+
+# 📰 News
+
+- *2025.06*: &nbsp;🎉 One paper is accepted to **ICCV 2025**! 
+- *2025.04*: &nbsp;📝 One paper is accepted to **TCSVT**.
+- *2025.02*: &nbsp;🎊 One paper is accepted to **CVPR 2025**.
+- *2024.12*: &nbsp;🎯 Two papers are accepted to **AAAI 2025**.
+- *2024.07*: &nbsp;⭐ **DMHomo** presented at **SIGGRAPH 2024** - first diffusion-based homography learning.
+- *2024.02*: &nbsp;🔥 Two papers (**RecDiffusion** & **HandBooster**) accepted to **CVPR 2024**.
+- *2023.07*: &nbsp;📚 **RSHomo** accepted to **ICCV 2023** with realistic dataset generation.
+- *2021.07*: &nbsp;🚀 **GyroFlow** accepted to **ICCV 2021** - pioneering gyroscope-guided learning.
 
 # Publications
 
@@ -258,6 +278,14 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 - *2022.09 - Present*, Ph.D. candidate, University of Electronic Science and Technology of China (UESTC)
 - *2017.07 - 2020.03*, M.Sc., École Nationale Supérieure des Télécommunications de Bretagne
 - *2013.09 - 2017.06*, B.E., University of Electronic Science and Technology of China (UESTC)
+
+# 🛠️ Skills & Tools
+
+**Programming Languages**: Python, C++, MATLAB, JavaScript  
+**Deep Learning Frameworks**: PyTorch, TensorFlow, JAX  
+**Computer Vision Libraries**: OpenCV, CUDA, PIL, scikit-image  
+**Development Tools**: Git, Docker, Linux, VS Code, Jupyter  
+**Specializations**: Diffusion Models, Optical Flow, Homography Estimation, 3D Vision
 
 # Experience
 
