@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2025.08*: &nbsp; One paper is accepted to TPAMI.
 - *2025.06*: &nbsp; One paper is accepted to ICCV 2025.
 - *2025.04*: &nbsp; One paper is accepted to TCSVT.
 - *2025.02*: &nbsp; One paper is accepted to CVPR 2025.
@@ -30,6 +31,20 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 # Publications
 
 **2025**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_HandBoosterPlus/HandBoosterPlus.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**HandBooster+: Boosting 3D Hand-Mesh Reconstruction from Data Synthesis to Progressive Multi-Hypothesis Aggregation**
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
+
+Hao Xu, **Haipeng Li**, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
+
+[[Paper]()] \| [[Video](https://www.youtube.com/watch?v=Eg_LfnFef9g)] \| [[Code](https://github.com/hxwork/HandBooster_Pytorch)] \| [[BibTex](collections/2025_HandBoosterPlus/HandBoosterPlus.md)] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_CamFlow/CamFlow.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
