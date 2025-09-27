@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 
 # News
 
+- *2025.09*: &nbsp; One paper is accepted to SIGGRAPH Aisa 2025.
 - *2025.08*: &nbsp; One paper is accepted to TPAMI.
 - *2025.07*: &nbsp; One paper is accepted to MM 2025.
 - *2025.06*: &nbsp; One paper is accepted to ICCV 2025.
@@ -32,6 +33,19 @@ I am currently a Ph.D. student at the SICE from the University of Electronic Sci
 # Publications
 
 **2025**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025_HNSR/HNSR.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Neural Semantic Representation for 3D Semantic Correspondence**
+
+ACM SIGGRAPH Asia (Conference), 2025.
+
+Keyu Du, Jingyu Hu, **Haipeng Li**, Hao Xu, Haibin Huang, Chi-Wing Fu, Shuaicheng Liu
+
+[[Paper](https://arxiv.org/html/2509.17431v1)] \| [[Video]()] \| [[Code](https://github.com/mapledky/NSR_PyTorch)] \| [[BibTex]()] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2025_HandBoosterPlus/HandBoosterPlus.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -53,7 +67,7 @@ Hao Xu, **Haipeng Li**, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu
 
 ACM Multimedia (**MM**), 2025.
 
-Yike Liu, JianHui Zhang, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
+Yike Liu, Jianhui Zhang, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
 
 [[Paper]()] \| [[BibTex]()] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
