@@ -18,19 +18,35 @@ redirect_from:
 
 # About Me
 
-I am currently a Ph.D. student at the SICE from the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) and [Prof. Bing Zeng](https://www.researchgate.net/profile/Bing-Zeng-4). I received my Master's degree at École Nationale Supérieure des Télécommunications de Bretagne, supervised by [Prof. Laurent Brisson](http://www.laurent-brisson.fr/). Before that, I got my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC). My research interests include image alignment, and generative model.
+I received my Ph.D. degree in 2025 from the University of Electronic Science and Technology of China (UESTC), where I was co-advised by [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) and [Prof. Bing Zeng](https://www.researchgate.net/profile/Bing-Zeng-4). Previously, I earned my Master's degree from IMT Atlantique (formerly Télécom Bretagne) in France, and my Bachelor's degree from UESTC. My research focuses on 2D/3D motion estimation, 3D generation, and Embodied Intelligence.
 
 # News
 
+- *2026.01*: &nbsp; One paper is accepted to TCSVT.
 - *2025.09*: &nbsp; One paper is accepted to SIGGRAPH Aisa 2025.
 - *2025.08*: &nbsp; One paper is accepted to TPAMI.
 - *2025.07*: &nbsp; One paper is accepted to MM 2025.
 - *2025.06*: &nbsp; One paper is accepted to ICCV 2025.
 - *2025.04*: &nbsp; One paper is accepted to TCSVT.
 - *2025.02*: &nbsp; One paper is accepted to CVPR 2025.
-- *2024.12*: &nbsp; Two papers are accepted to AAAI 2025.
 
 # Publications
+
+**2026**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026_HDR/HDR.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Solving Ill-Posed Regions in High Dynamic Range Reconstruction with Uncertainty-Aware Diffusion Models**
+
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
+
+Zhen Liu, Hai Jiang, **Haipeng Li**, Shuaicheng Liu, Bing Zeng
+
+[[Paper](https://ieeexplore.ieee.org/document/11271331)] \| [[Video]()] \| [[Code]()] \| [[BibTex]()] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
+
 
 **2025**
 
