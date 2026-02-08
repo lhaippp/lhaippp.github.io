@@ -22,17 +22,30 @@ I received my Ph.D. degree in 2025 from the University of Electronic Science and
 
 # News
 
+- *2026.02*: &nbsp; One paper is accepted to ICRA 2026.
 - *2026.01*: &nbsp; One paper is accepted to TCSVT.
 - *2025.09*: &nbsp; One paper is accepted to SIGGRAPH Aisa 2025.
 - *2025.08*: &nbsp; One paper is accepted to TPAMI.
 - *2025.07*: &nbsp; One paper is accepted to MM 2025.
 - *2025.06*: &nbsp; One paper is accepted to ICCV 2025.
 - *2025.04*: &nbsp; One paper is accepted to TCSVT.
-- *2025.02*: &nbsp; One paper is accepted to CVPR 2025.
 
 # Publications
 
 **2026**
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026_HeRO/HeRO.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**HeRO: Hierarchical 3D Semantic Representation for Pose-aware Object Manipulation**
+
+IEEE International Conference on Robotics & Automation (**ICRA**), 2026
+
+Chongyang Xu, Shen Cheng, **Haipeng Li**, Haoqiang Fan, Ziliang Feng and Shuaicheng Liu
+
+[[Paper]()] \| [[Video]()] \| [[Code]()] \| [[BibTex]()] <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026_HDR/HDR.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -314,7 +327,7 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 
 # Education
 
-- *2022.09 - Present*, Ph.D. candidate, University of Electronic Science and Technology of China (UESTC)
+- *2022.09 - 2025.12*, Ph.D. candidate, University of Electronic Science and Technology of China (UESTC)
 - *2017.07 - 2020.03*, M.Sc., École Nationale Supérieure des Télécommunications de Bretagne
 - *2013.09 - 2017.06*, B.E., University of Electronic Science and Technology of China (UESTC)
 
@@ -324,7 +337,7 @@ Shuaicheng Liu, **Haipeng Li**, Zhengning Wang, Jue Wang, Shuyuan Zhu, Bing Zeng
 
 # Academic Services
 - **Journals:** TPAMI, TIP, TMI, TCSVT, PR
-- **Conferences:** CVPR2024/2025, ICCV2025, ICLR2025, AAAI2025, MM2024
+- **Conferences:** CVPR, ICCV, ECCV, ICLR, AAAI, MM
 
 # Visitor Map
 <div style="width: 400px; height: 300px;">
